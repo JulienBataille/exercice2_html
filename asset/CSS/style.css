@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+.subtitles {
+    color: rgb(255, 0, 0);
+    text-transform: uppercase;
+  }
+
+.image {
+  background-image: url("https://placehold.co/1920x700");
+  }
+
+.image h1 {/* ↑↓ 300px and ←→ 0px*/
+  padding: 300px 0;
+  }
